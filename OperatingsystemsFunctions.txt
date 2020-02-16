@@ -1,0 +1,1 @@
+One main function of an operating system is security. OS security is the process of protecting the operating system's confidentiality. It is in charge of protecting from viruses, worms, or any other malware so it does not slow your computer down. It is also in charge of preventing hackers or any other unautherized users from having access to your data.
